@@ -275,7 +275,6 @@
     <Content Include="Scripts\slider.js" />
     <Content Include="Scripts\select2.js" />
     <Content Include="Scripts\select2.min.js" />
-    <Content Include="Scripts\home.js" />
     <Content Include="Scripts\Slick\slick.js" />
     <Content Include="Scripts\Slick\slick.min.js" />
     <Content Include="Web.config" />
